@@ -1,0 +1,4 @@
+Place the following screenshots here:
+1. swagger_docs.png - Screenshot of the Swagger UI at /docs
+2. comparison_result.png - Screenshot of the JSON response from /compare
+3. pinecone_dashboard.png - Screenshot of the Pinecone index dashboard

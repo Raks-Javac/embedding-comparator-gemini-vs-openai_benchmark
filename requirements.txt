@@ -1,0 +1,11 @@
+openai
+google-genai
+pinecone
+fastapi
+uvicorn
+python-dotenv
+numpy
+pandas
+matplotlib
+seaborn
+requests
