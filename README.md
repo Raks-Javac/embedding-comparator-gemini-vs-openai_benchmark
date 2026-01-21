@@ -179,4 +179,3 @@ Search for the most similar sentences in the database using a query text and a s
 ├── requirements.txt
 └── README.md
 ```
-# embedding-comparator-gemini-vs-openai_benchmark
