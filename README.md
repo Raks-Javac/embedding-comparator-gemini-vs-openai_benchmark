@@ -43,7 +43,7 @@ The project is built with **FastAPI** and is Docker-ready for easy deployment on
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Raks-Javac/embedding-comparator-gemini-vs-openai_benchmark.git
    cd embedding-comparator-gemini-vs-openai_benchmark
    ```
 
